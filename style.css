@@ -65,7 +65,7 @@ footer p{
 }
 
 .main {
-  background-image: url(https://haruto318.github.io/webpage/back.PNG);
+  background-image: url("https://haruto318.github.io/webpage/back.PNG");
   text-align: center;
 }
 
